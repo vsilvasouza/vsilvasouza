@@ -8,7 +8,7 @@ I'm passionate about programming, solving problems, learning and improving skill
 #### 👨‍💻"Todo dia é dia de aprender"! 📚
 
 - 🏡 From Bertioga/SP - Brazil
--  🧩 IT Intern at Prefeitura de Bertioga
+-  🧩 Java Development Intern at MODALGR
 - 🎮 English skills always being improved by playing some games. Hahaha
 
 You can found me at 👇
