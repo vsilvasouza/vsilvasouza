@@ -1,16 +1,15 @@
-# Hellooo👋
-
-My name is Valter Filho, I'm a IT student, and a future Software Engineer. ✨
+# Hellooo, I'm Valter Silva👋
 
 I'm passionate about programming, solving problems, learning and improving skills. Always open to new challenges and ready to new changes. ⚡
 
+- 🏡 Santos/SP - Brazil
+- 🧩 Back-End Software Developer at MODALGR
 
-#### 👨‍💻"Todo dia é dia de aprender"! 📚
-
-- 🏡 From Bertioga/SP - Brazil
--  🧩 Jr System Analist at MODALGR
-- 🎮 English skills always being improved by playing some games. Hahaha
+##
 
 You can found me at 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-vsilvasouzaf-FF0000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vsilvasouzaf/)](https://www.linkedin.com/in/vsilvasouzaf/) [![Gmail Badge](https://img.shields.io/badge/-vsilvasouzaf98@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vsilvasouzaf98@gmail.com)](mailto:vsilvasouzaf98@gmail.com)
+<div> 
+  <a href = "mailto:vsilvasouzaf98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vsilvasouzaf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
