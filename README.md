@@ -3,7 +3,7 @@
 I'm passionate about programming, solving problems, learning and improving skills. Always open to new challenges and ready to new changes. ⚡
 
 - 🏡 Santos/SP - Brazil
-- 🧩 Back-End Software Developer at MODALGR
+- 🧩 Back-End Software Developer
 
 ##
 
